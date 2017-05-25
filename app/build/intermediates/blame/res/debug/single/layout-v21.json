@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yatre\\StudioProjects\\realm_test3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\yatre\\.android\\build-cache\\487d85c2fc4be7db734c18eb73e55bd7773580a3\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\yatre\\StudioProjects\\realm_test3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\yatre\\.android\\build-cache\\487d85c2fc4be7db734c18eb73e55bd7773580a3\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\yatre\\StudioProjects\\realm_test3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\yatre\\.android\\build-cache\\487d85c2fc4be7db734c18eb73e55bd7773580a3\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\yatre\\StudioProjects\\realm_test3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\yatre\\.android\\build-cache\\487d85c2fc4be7db734c18eb73e55bd7773580a3\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

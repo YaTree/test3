@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatre\.android\build-cache\e394c22a2a0ed1525ba0118db0fd6039c8c117fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatre\.android\build-cache\ff4fb1355a75e9e47be521ca1d7daf73b6bf41a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatre\.android\build-cache\f66d34c72a5491f4e1c1c419c6b18ee98a085e9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatre\.android\build-cache\913c59bd902340a45951edec97ae08baa0cb3998\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatre\.android\build-cache\d606e529fa862439b65d986f5731d4ffb4041bb4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\99742d55774998979e5f987de859b4d11a56a833\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\ce6d3c69dcc375b0db0b2eae6bd69e94d529e434\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatre\.android\build-cache\d72a28d91f562cb1724c149faf704f094c909085\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yatre\.android\build-cache\1060ffb223ecd191031cc5466482dda5a9d12197\output\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\yatre\.android\build-cache\f1dfe8f62a379bb8e50f1857200d722bf03061c4\output\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\yatre\.android\build-cache\4c783f9ae833910ff84746a833f6364c0a22ac8a\output\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ido_klzujtc.realm_test.MainActivity
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.1.0] C:\Users\yatre\.android\build-cache\c8df1eb427487e0672f89b304a733376c6017900\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\yatre\.android\build-cache\332608dcf495a265e3cb083e0b9dc2bfabbdf1a5\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatre\.android\build-cache\e394c22a2a0ed1525ba0118db0fd6039c8c117fd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatre\.android\build-cache\ff4fb1355a75e9e47be521ca1d7daf73b6bf41a6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatre\.android\build-cache\f66d34c72a5491f4e1c1c419c6b18ee98a085e9b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatre\.android\build-cache\913c59bd902340a45951edec97ae08baa0cb3998\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatre\.android\build-cache\d606e529fa862439b65d986f5731d4ffb4041bb4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\99742d55774998979e5f987de859b4d11a56a833\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\ce6d3c69dcc375b0db0b2eae6bd69e94d529e434\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatre\.android\build-cache\d72a28d91f562cb1724c149faf704f094c909085\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\yatre\.android\build-cache\1060ffb223ecd191031cc5466482dda5a9d12197\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.eggheadgames:android-realm-asset-helper:2.0.0] C:\Users\yatre\.android\build-cache\56f1ada837c022068c66f155fe7d9d0ba4d9438e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.uphyca:stetho_realm:2.0.1] C:\Users\yatre\.android\build-cache\1215ce9f46f04c3fb45332749fc155f22b46cd9e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] C:\Users\yatre\.android\build-cache\f1dfe8f62a379bb8e50f1857200d722bf03061c4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.4.2] C:\Users\yatre\.android\build-cache\4c783f9ae833910ff84746a833f6364c0a22ac8a\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\StudioProjects\realm_test3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatre\.android\build-cache\e394c22a2a0ed1525ba0118db0fd6039c8c117fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatre\.android\build-cache\ff4fb1355a75e9e47be521ca1d7daf73b6bf41a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatre\.android\build-cache\f66d34c72a5491f4e1c1c419c6b18ee98a085e9b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatre\.android\build-cache\913c59bd902340a45951edec97ae08baa0cb3998\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatre\.android\build-cache\d606e529fa862439b65d986f5731d4ffb4041bb4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\99742d55774998979e5f987de859b4d11a56a833\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatre\.android\build-cache\ce6d3c69dcc375b0db0b2eae6bd69e94d529e434\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatre\.android\build-cache\d72a28d91f562cb1724c149faf704f094c909085\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatre\.android\build-cache\487d85c2fc4be7db734c18eb73e55bd7773580a3\output\AndroidManifest.xml:26:9-47
